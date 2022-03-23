@@ -185,6 +185,6 @@ const inter =  setInterval(()=>{
 
 }
 
-time(3,0,5)
+time(3,0,0)
 
 

@@ -58,16 +58,4 @@ for(i=0;i<arr.length;i++) {
 spm1.innerHTML=html
 spm2.innerHTML=html
 
-var header__pd_l = document.querySelector(".pd__left")
-var header__pd_r = document.querySelector(".pd__right")
-header__pd_l.addEventListener("click",()=>{
-    header__pd_r.classList.remove("line__bottom")
-    header__pd_l.classList.add("line__bottom")
-
-})
-header__pd_r.addEventListener("click",()=>{
-    header__pd_l.classList.remove("line__bottom")
-    header__pd_r.classList.add("line__bottom")
-
-})
 

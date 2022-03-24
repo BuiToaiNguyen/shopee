@@ -30,7 +30,6 @@ li{
     color:white !important;
 }
 .app__container{
-    height:200px;
     width: 100vw;
     
     display:flex;
@@ -174,7 +173,7 @@ padding:4px
 
 }
 .logo__shopee{
-    width:100px
+    width:150px
 }
 .header__logo-link{
     color:white
@@ -182,7 +181,7 @@ padding:4px
 }
 .header__logo-link{
     display:flex;
-    align-items: flex-end;
+    align-items: center;
 }
 .header__logo-link h1{
     font-weight:200;

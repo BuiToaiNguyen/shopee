@@ -403,6 +403,7 @@ width:70px
     display:flex;
     align-items: center;
     justify-content: center;
+    z-index:999
 
     
 
@@ -704,7 +705,7 @@ margin-top: 12px;}
     background-color:white;
     margin:auto;
     padding:0;
-    overflow-y: hidden;
+    /* overflow-y: hidden; */
 
     /* overflow-x: hidden; */
     /* width:1200px !important */
